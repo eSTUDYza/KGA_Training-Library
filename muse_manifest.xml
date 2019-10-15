@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="training.com" resolutions="1x" timestamp="1571146326842">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="training.com" resolutions="1x" timestamp="1571146652914">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="154557630" ref="index"/>
@@ -17,5 +17,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4135310220" seo="true" mt="1571146313229" redirect="true"/>
+  <file name="index.html" crc="4135310220" seo="true" mt="1571146640579" redirect="true"/>
 </manifest>
