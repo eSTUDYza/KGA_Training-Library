@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="training.com" resolutions="1x" timestamp="1571732879845">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="training.com" resolutions="1x" timestamp="1574863516176">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3792193220" ref="index"/>
+    <file name="index.css" crc="4043419866" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,9 +13,9 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="library.png" crc="4240167953" seo="true" ref="index">
+    <file name="asset 16.png" crc="142747266" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="102392541" seo="true" mt="1571732866968" redirect="true"/>
+  <file name="index.html" crc="4034240648" seo="true" mt="1574863498580" redirect="true"/>
 </manifest>
